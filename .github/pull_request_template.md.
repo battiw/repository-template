@@ -1,4 +1,11 @@
-# PR Details
+
+
+1. Ссылка на задание.
+2. Дата сдачи / дата дедлайна.
+3. Ваша самопроверка с предварительной оценкой (должны быть пункты из требований кросс-чека (реализованный функционал, а также штрафы) с указанием того, какие из пунктов были выполнены в работе)).
+Также дополнительно можно добавить иную информацию, которая поможет в оценке задания.
+
+# TASK
 
 <!--- Provide a general summary of your changes in the Title above -->
 
@@ -6,31 +13,20 @@
 
 <!--- Describe your changes in detail -->
 
-## Related Issue
+## LINK TO TASK
 
-<!--- This project only accepts pull requests related to open issues -->
-<!--- If suggesting a new feature or change, please discuss it in an issue first -->
-<!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
+[Description]()
+{Cross-check criteria]()
 
-## Motivation and Context
+## End date / deadline date.
 
-<!--- Why is this change required? What problem does it solve? -->
+28.11.2021 / 05.12.2021
 
-## How Has This Been Tested
+## SELF-TEST
 
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+<!--- Your self-check with a preliminary assessment (there should be items from the requirements of the cross-check (implemented functionality, as well as penalties), indicating which of the items were performed in the work)).
+You can also add other additional information to help you evaluate the assignment. -->
 
-## Types of changes
-
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-
-- [ ] Docs change / refactoring / dependency upgrade
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
 
 ## Checklist
 
